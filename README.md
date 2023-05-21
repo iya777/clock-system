@@ -1,4 +1,4 @@
-# clockADT
+# clock system
 Sistem Waktu / Clock System dalam C++ menggunakan Codeblocks
 
 ![Screenshot](clocksys.jpg)
