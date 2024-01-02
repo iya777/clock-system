@@ -1,4 +1,4 @@
-# clock system
+# Simple C++ Clock System
 Sistem Waktu / Clock System dalam C++ menggunakan Codeblocks
 
 ![Screenshot](clocksys.jpg)
